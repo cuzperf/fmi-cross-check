@@ -1,1 +1,0 @@
-FMI_Crosscheck_Library_Tester.exe --FMU=Discontinuities.fmu --Options=Discontinuities_ref.opt --Reference=Discontinuities_ref.csv --Output=Discontinuities_out.csv --FMUType=ME

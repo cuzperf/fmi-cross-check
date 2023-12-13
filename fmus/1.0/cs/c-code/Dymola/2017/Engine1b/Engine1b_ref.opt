@@ -1,6 +1,0 @@
-StepSize,0.0001
-StartTime,0
-StopTime,0.5
-RelTol,1e-4
-OutputIntervalLength,0.001
-

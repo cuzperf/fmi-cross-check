@@ -1,1 +1,0 @@
-The Microsoft CRT 2010 64 bits (https://www.microsoft.com/es-es/download/details.aspx?id=13523) is required to run this FMU.

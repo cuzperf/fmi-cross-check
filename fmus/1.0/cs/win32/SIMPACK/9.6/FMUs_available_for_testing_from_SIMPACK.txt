@@ -1,3 +1,0 @@
-DoublePendulum
-InvertedPendulumOnACart
-SpringDamper

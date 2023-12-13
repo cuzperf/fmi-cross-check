@@ -1,1 +1,0 @@
-FMI_Crosscheck_Library_Tester.exe --FMU=IntegrateSignal.fmu --Input=IntegrateSignal_in.csv --Options=IntegrateSignal_ref.opt --Reference=IntegrateSignal_ref.csv --Output=IntegrateSignal_out.csv --FMUType=CS

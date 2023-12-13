@@ -1,1 +1,0 @@
-FMI_Crosscheck_Library_Tester.exe --FMU=CoupledClutches.fmu --Input=CoupledClutches_in.csv --Options=CoupledClutches_ref.opt --Reference=CoupledClutches_ref.csv --Output=CoupledClutches_out.csv --FMUType=CS

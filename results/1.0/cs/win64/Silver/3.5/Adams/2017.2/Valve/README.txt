@@ -1,1 +1,0 @@
-FMU can only be simulated with an Adams license.

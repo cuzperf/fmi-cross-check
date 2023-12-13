@@ -1,1 +1,0 @@
-./fmuCheck.linux64 -e valve_cc.log -o valve_cc.csv -i valve_in.csv -n 0 -h 0.001 -s 5 valve.fmu

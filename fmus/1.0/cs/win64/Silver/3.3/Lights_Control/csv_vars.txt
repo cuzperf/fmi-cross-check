@@ -1,3 +1,0 @@
-headlight
-light_intensity
-light_switch
