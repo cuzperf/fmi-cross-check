@@ -38,7 +38,7 @@ fmus
 
 | File / Directory   | Description
 |--------------------|------------
-| FMI_Version        | `1.0`, `2.0`
+| FMI_Version        | `1.0`, `2.0`, `3.0`
 | FMI_Type           | `cs` (Co-Simulation), `me` (Model Exchange)
 | Platform           | `c-code`, `darwin32`, `linux32`, `linux64`, `win32`, `win64`
 | Tool_ID            | Must match the tool ID in tools.csv
@@ -70,7 +70,7 @@ results
 
 | File / Directory       | Description
 |------------------------|------------
-| FMI_Version            | `1.0`, `2.0`
+| FMI_Version            | `1.0`, `2.0`, `3.0`
 | FMI_Type               | `cs` (Co-Simulation), `me` (Model Exchange)
 | Platform               | `c-code`, `darwin32`, `linux32`, `linux64`, `win32`, `win64`
 | Importing_Tool_ID      | The importing tool's ID (as in tools.csv)

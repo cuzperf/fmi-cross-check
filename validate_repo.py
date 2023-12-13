@@ -153,7 +153,7 @@ def validate_repo(vendor_dir, clean_up=False):
 
         fmi_version, fmi_type, platform, tool_name, tool_version, model_name = t[-6:]
 
-        if fmi_version not in ['1.0', '2.0']:
+        if fmi_version not in ['1.0', '2.0', '3.0']:
             continue
 
         if fmi_type not in ['cs', 'me']:
