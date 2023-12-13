@@ -2,6 +2,7 @@ from __future__ import print_function
 
 import sys
 import os
+import time
 import numpy as np
 from fmpy import read_model_description
 from fmpy.util import read_ref_opt_file
@@ -175,6 +176,7 @@ def validate_repo(vendor_dir, clean_up=False):
 
 
 if __name__ == '__main__':
+    start = time.time();
 
     xc_repo = os.path.dirname(__file__)
 
@@ -190,5 +192,8 @@ if __name__ == '__main__':
     for problem in problems:
         print()
         print(problem)
+
+    end = time.time();
+    print("Time Used: ", end - start)
 
     sys.exit(len(problems))
